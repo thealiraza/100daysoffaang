@@ -50,13 +50,13 @@
 ### Day 33-34: Heap
 
 ### Day 35-36: Hash Tables
-[Two Sum(easy)](https://leetcode.com/problems/two-sum)
-[ Contains Duplicate(easy)](https://leetcode.com/problems/contains-duplicate)
-[Majority Element(easy)](https://leetcode.com/problems/majority-element)
-[Group Anagrams(medium)](https://leetcode.com/problems/group-anagrams)
-[4 sum 2(medium)](https://leetcode.com/problems/4sum-ii)
-[LRU Cache(medium)](https://leetcode.com/problems/lru-cache)
-[Minimum Window Substring(hard)](https://leetcode.com/problems/minimum-window-substring)
+#### [Two Sum(easy)](https://leetcode.com/problems/two-sum)
+#### [ Contains Duplicate(easy)](https://leetcode.com/problems/contains-duplicate)
+#### [Majority Element(easy)](https://leetcode.com/problems/majority-element)
+#### [Group Anagrams(medium)](https://leetcode.com/problems/group-anagrams)
+#### [4 sum 2(medium)](https://leetcode.com/problems/4sum-ii)
+#### [LRU Cache(medium)](https://leetcode.com/problems/lru-cache)
+#### [Minimum Window Substring(hard)](https://leetcode.com/problems/minimum-window-substring)
 
 
 ### Day 37-38: Strings
