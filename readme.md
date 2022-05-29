@@ -75,7 +75,10 @@
 ##### BFS +DFS
 [Difference between BFS and DFS](https://www.geeksforgeeks.org/difference-between-bfs-and-dfs)
 ### Day 51-52: [Dijkstra](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
-### Day 53-54: Greedy Algorithms
+### Day 53-54: [Greedy Algorithms](https://www.programiz.com/dsa/greedy-algorithm#:~:text=A%20greedy%20algorithm%20is%20an,if%20the%20choice%20is%20wrong.)
+#### [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+#### [Patching Array](https://leetcode.com/problems/patching-array/)
+#### [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
 
 # System Designs
 
