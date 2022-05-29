@@ -68,7 +68,7 @@
 ##### [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)
 ##### [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
 ##### [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
-##Exercises
+## Exercises
 #### [3Sum](https://leetcode.com/problems/3sum/)
 #### [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 ### Day 46-50 Searching
