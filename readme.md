@@ -77,17 +77,6 @@
 ### Day 51-52: [Dijkstra](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 ### Day 53-54: Greedy Algorithms
 
-# Misc
-#### Dynamic Programming
-#### [House Robber(easy)](https://leetcode.com/problems/house-robber)
-#### [Best time to buy and sell stocks(easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
-#### [Climbing stairs(easy)](https://leetcode.com/problems/climbing-stairs)
-#### [Coin change(medium)](https://leetcode.com/problems/coin-change)
-#### [Unique paths(medium)](https://leetcode.com/problems/unique-paths)
-#### [Longest palindromic substring(medium)](https://leetcode.com/problems/longest-palindromic-substring)
-#### [Trapping rain water(hard)](https://leetcode.com/problems/trapping-rain-water)
-
-
 # System Designs
 
 Spend around three weeks learning design systems. It includes learning existing ones and how to build a new one.
@@ -121,3 +110,13 @@ Learn how top tech companies such as Amazon, Netflix, Uber, etc have built their
 ### Day 96-99: Prepare for behaviour / cultural fit interview
 
 ### Day100: Prepare your resume
+
+# Misc
+#### Dynamic Programming
+#### [House Robber(easy)](https://leetcode.com/problems/house-robber)
+#### [Best time to buy and sell stocks(easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+#### [Climbing stairs(easy)](https://leetcode.com/problems/climbing-stairs)
+#### [Coin change(medium)](https://leetcode.com/problems/coin-change)
+#### [Unique paths(medium)](https://leetcode.com/problems/unique-paths)
+#### [Longest palindromic substring(medium)](https://leetcode.com/problems/longest-palindromic-substring)
+#### [Trapping rain water(hard)](https://leetcode.com/problems/trapping-rain-water)
