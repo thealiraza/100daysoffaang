@@ -43,7 +43,12 @@
 ##### [Binary tree maximum path sum(hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 
 ### Day 31-32: Matrix
+#### [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+#### [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+#### [Rotate Image](https://leetcode.com/problems/rotate-image/)
+
 ### Day 33-34: Heap
+
 ### Day 35-36: Hash Tables
 [Two Sum(easy)](https://leetcode.com/problems/two-sum)
 [ Contains Duplicate(easy)](https://leetcode.com/problems/contains-duplicate)
@@ -60,7 +65,10 @@
 
 # Algorithms
 
-### Day 39-40: Recursion
+### Day 39-40: [Recursion](https://www.geeksforgeeks.org/recursion/)
+#### [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+#### [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+#### [Number of digit one](https://leetcode.com/problems/number-of-digit-one/)
 ### Day 41-45: Sorting
 ##### [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
 ##### [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
