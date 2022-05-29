@@ -62,28 +62,30 @@
 
 ### Day 39-40: Recursion
 ### Day 41-45: Sorting
-##### Basic
-##### Merge
-##### Quick
-##### Selection
-##### Insertion
-##### Topological Sort
-##### Counting Sort
+##### [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+##### [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
+##### [Selection Sort](https://www.geeksforgeeks.org/selection-sort/)
+##### [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)
+##### [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
+##### [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
+##Exercises
+#### [3Sum](https://leetcode.com/problems/3sum/)
+#### [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 ### Day 46-50 Searching
 ##### BFS +DFS
 [Difference between BFS and DFS](https://www.geeksforgeeks.org/difference-between-bfs-and-dfs)
-### Day 51-52: Dijkstra
+### Day 51-52: [Dijkstra](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 ### Day 53-54: Greedy Algorithms
 
 # Misc
 #### Dynamic Programming
-[House Robber(easy)](https://leetcode.com/problems/house-robber)
-[Best time to buy and sell stocks(easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
-[Climbing stairs(easy)](https://leetcode.com/problems/climbing-stairs)
-[Coin change(medium)](https://leetcode.com/problems/coin-change)
-[Unique paths(medium)](https://leetcode.com/problems/unique-paths)
-[Longest palindromic substring(medium)](https://leetcode.com/problems/longest-palindromic-substring)
-[Trapping rain water(hard)](https://leetcode.com/problems/trapping-rain-water)
+#### [House Robber(easy)](https://leetcode.com/problems/house-robber)
+#### [Best time to buy and sell stocks(easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+#### [Climbing stairs(easy)](https://leetcode.com/problems/climbing-stairs)
+#### [Coin change(medium)](https://leetcode.com/problems/coin-change)
+#### [Unique paths(medium)](https://leetcode.com/problems/unique-paths)
+#### [Longest palindromic substring(medium)](https://leetcode.com/problems/longest-palindromic-substring)
+#### [Trapping rain water(hard)](https://leetcode.com/problems/trapping-rain-water)
 
 
 # System Designs
@@ -92,8 +94,15 @@ Spend around three weeks learning design systems. It includes learning existing 
 
 ### Day 55-60: Understand basics of System Designs
 ### Day 61-64: Learn existing system designs
-
 Learn how top tech companies such as Amazon, Netflix, Uber, etc have built their systems.
+
+#### [Airbnb](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Airbnb.png)
+#### [Amazon](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Amazon.png)
+#### [Google Maps](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Google%20Maps%20Design.png)
+#### [Netflix](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Netflix.png)
+#### [Twitter](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Twitter.png)
+#### [Uber](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/Uber.png)
+#### [WHatsApp](https://github.com/thealiraza/100daysoffaang/blob/master/System-Designs/WhatsApp.png)
 
 ### Day65-70: Practice Design Systems
 #### 1. Design Tiktok
