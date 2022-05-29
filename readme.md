@@ -1,6 +1,6 @@
-#100 Days Of FAANG
+# 100 Days Of FAANG
 
-# Data Structures
+## Data Structures
 
 ### Day 1-7: Get your hands dirty on your favourite programming language.
 ### Day 8-10: BigO Notation
